@@ -17,4 +17,4 @@
 
  ## The App
 
-  The model is deployed online and can be accessed at streamlit [here](https://share.streamlit.io/mykolaskrynnyk/sdp-1-company-name-generator).
+  The model is deployed online and can be accessed at streamlit [here](https://share.streamlit.io/mykolaskrynnyk/sdp-1-company-name-generator/main/app/streamlit_app.py).
