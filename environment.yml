@@ -1,0 +1,20 @@
+name: sdp-1
+channels:
+  - defaults
+  - conda-forge
+  - plotly
+dependencies:
+  - pandas
+  - tqdm
+  - numpy
+  - python=3.9
+  - seaborn
+  - notebook
+  - pymongo
+  - dnspython
+  - sparqlwrapper
+  - plotly=5.4.0
+  - streamlit=1.3.0
+  - pip
+  - pip:
+    - tensorflow==2.7
